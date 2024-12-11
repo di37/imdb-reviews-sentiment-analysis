@@ -1,0 +1,18 @@
+from .constants import (
+    VOCAB_SIZE,
+    MAX_LEN,
+    EMBED_DIM,
+    NUM_HEADS,
+    FF_DIM,
+    ACTIVATION_RELU,
+    ACTIVATION_SOFTMAX,
+    MODEL_NAME,
+    MODEL_PATH,
+    OPTIMIZER,
+    LOSS,
+    METRICS,
+    BATCH_SIZE,
+    EPOCHS,
+    DATA_PATH,
+    TEXT_VECTORIZER_PATH
+)
