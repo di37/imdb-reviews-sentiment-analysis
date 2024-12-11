@@ -1,6 +1,6 @@
-# Training Transformers Model for IMDB Sentiment Analysis
+# Training an IMDB Movie Sentiment Analyzer Using TensorFlow and Transformers
 
-We can notice that transformers model was trained faster than Bi-directional LSTM model and also gave better result.
+This project demonstrates how to use Transformer-based models for sentiment analysis of movie reviews from the IMDB dataset. Transformers, a cutting-edge architecture for NLP tasks, provide contextual understanding of text, enabling highly accurate sentiment classification. TensorFlow and Keras libraries were used to build, train, and evaluate the model.
 
 ## Environment
 
