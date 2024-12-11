@@ -4,7 +4,7 @@ This project demonstrates how to use Transformer-based models for sentiment anal
 
 ## Environment
 
-The whole experiment was done in Colab notebook. Tensorflow library was used.
+The whole experiment was done in Colab notebook. 
 
 ## Machine Learning
 
