@@ -14,5 +14,6 @@ The pre-processing and feature engineering is almost the same except padding was
 Evaluation using test dataset as follows:
 
 235/235 - 11s - loss: 0.2903 - accuracy: 0.8815 - 11s/epoch - 47ms/step
+
 loss: 0.290
 accuracy: 0.881
